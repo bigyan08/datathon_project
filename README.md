@@ -3,10 +3,8 @@
 Welcome to our TechParva Datathon project repository! Here, we present our submission for the TechParva Datathon competition, where we analyzed data to derive meaningful insights and solutions. Leveraging the power of Python libraries such as Pandas for data manipulation and Scikit-learn for building Random Forest models, we embarked on a journey to extract valuable information from the given datasets.
 
 ## Team Members:
-- John Doe
-- Jane Smith
-- Alice Johnson
-- Bob Brown
+- Bigyan Aryal
+- Suzan Kharel
 
 ## Project Overview:
 Our project revolves around [briefly describe the project goal and objectives]. Through data analysis, feature engineering, and machine learning techniques, we aimed to uncover patterns, make predictions, or derive insights that could benefit stakeholders.
