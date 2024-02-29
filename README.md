@@ -3,7 +3,7 @@
 Welcome to our TechParva Datathon project repository! Here, we present our submission for the TechParva Datathon competition, where we analyzed data to derive meaningful insights and solutions. Leveraging the power of Python libraries such as Pandas for data manipulation and Scikit-learn for building Random Forest models, we embarked on a journey to extract valuable information from the given datasets.
 
 ## Team Members:
-- Bigyan Aryal
+- [Bigyan Aryal](https://github.com/bigyan08)
 - [Suzan Kharel](https://github.com/Sujan29k)
 
 ## Project Overview:
