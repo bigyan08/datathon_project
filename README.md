@@ -4,7 +4,7 @@ Welcome to our TechParva Datathon project repository! Here, we present our submi
 
 ## Team Members:
 - Bigyan Aryal
-- Suzan Kharel
+- [Suzan Kharel](https://github.com/Sujan29k)
 
 ## Project Overview:
 Our project revolves around [briefly describe the project goal and objectives]. Through data analysis, feature engineering, and machine learning techniques, we aimed to uncover patterns, make predictions, or derive insights that could benefit stakeholders.
