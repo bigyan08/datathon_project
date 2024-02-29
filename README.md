@@ -1,3 +1,2 @@
 # datathon_project
-
-bigyan is gay.
+seamoon_pandey is gay.
